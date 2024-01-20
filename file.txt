@@ -3,3 +3,4 @@ yusuf- qss - bir buton oluştur.
 değişiklik
 sağ üst köşede profil icon'u için html kodu yazıldı
 yusuf- profil icon'unu kare yaptım
+yusuf- kayit olma formunu geliştirdim html-css-js-react
