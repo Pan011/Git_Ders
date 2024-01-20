@@ -1,0 +1,3 @@
+bugün 3. hafta ve artık git toolu nedir onu öğreneceğiz
+
+yusuf- qss - bir buton oluştur.
