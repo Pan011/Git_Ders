@@ -1,4 +1,5 @@
 bugün 3. hafta ve artık git toolu nedir onu öğreneceğiz
 yusuf- qss - bir buton oluştur.
 değişiklik
-sağ üst köşede profil iconu için html kodu yazıldı
+sağ üst köşede profil icon'u için html kodu yazıldı
+yusuf- profil icon'unu kare yaptım
